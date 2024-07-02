@@ -1,0 +1,24 @@
+
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 0, 170);
+    background-color: rgb(87, 221, 87);
+}
+
+h2
+{
+   font-weight: normal; 
+   color: rgb(92, 10, 146);
+   background-color: rgb(255, 127, 249);
+}
+
+h3
+{
+    font-weight: normal; 
+    color: rgb(48, 12, 211);
+     background-color: rgb(201, 231, 29);
+}
+
+
